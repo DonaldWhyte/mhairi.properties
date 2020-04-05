@@ -234,8 +234,10 @@ h1, h2, h3, h4, h5,
   background: transparent;
   color: #fff; }
   .btn.btn-white-outline:hover {
-    color: #000;
-    background: #fff; }
+    color: #fff;
+    background-color: #0a005a;
+    border-color: #0a005a; }
+  }
 
 .text-black {
   color: #000 !important; }
@@ -1194,9 +1196,4 @@ h1, h2, h3, h4, h5,
 .background-text-box h2 {
   color: white !important;
   margin: 0px !important;
-}
-
-#message-btn input {
-  font-size: 3rem !important;
-  font-weight: bold !important;
 }
